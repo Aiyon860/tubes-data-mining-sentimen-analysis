@@ -2,4 +2,4 @@ streamlit
 numpy
 joblib
 sastrawi
-sklearn
+scikit-learn
